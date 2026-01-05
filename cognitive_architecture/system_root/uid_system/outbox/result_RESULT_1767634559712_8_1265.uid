@@ -1,0 +1,15 @@
+{
+  "result_id": "RESULT_1767634559712_8_1265",
+  "task_type": "FIND_CHAR",
+  "target": "UID_NOT_EXIST",
+  "query_result": {
+    "query_type": "FIND_CHAR",
+    "target": "UID_NOT_EXIST",
+    "timestamp": 1767634559.7126093,
+    "found": false,
+    "message": "UID未找到"
+  },
+  "status": "NOT_FOUND",
+  "timestamp": 1767634559.7126231,
+  "processor_version": "1.0"
+}

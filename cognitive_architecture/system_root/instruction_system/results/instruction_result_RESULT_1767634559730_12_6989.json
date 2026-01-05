@@ -1,0 +1,13 @@
+{
+  "result_id": "RESULT_1767634559730_12_6989",
+  "instruction": "MOVE_CURSOR CURSOR_1767634558677_1_8847 RIGHT 10",
+  "execution_result": {
+    "status": "SUCCESS",
+    "cursor_id": "CURSOR_1767634558677_1_8847",
+    "new_position": 10,
+    "direction": "RIGHT",
+    "spaces": 10,
+    "message": "\u5149\u6807 CURSOR_1767634558677_1_8847 \u5df2\u79fb\u52a8"
+  },
+  "timestamp": 1767634559.730077
+}

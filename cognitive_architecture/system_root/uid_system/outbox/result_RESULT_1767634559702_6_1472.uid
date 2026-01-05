@@ -1,0 +1,16 @@
+{
+  "result_id": "RESULT_1767634559702_6_1472",
+  "task_type": "FIND_CHAR",
+  "target": "UID_ALPHA",
+  "query_result": {
+    "query_type": "FIND_CHAR",
+    "target": "UID_ALPHA",
+    "timestamp": 1767634559.7027922,
+    "found": true,
+    "char": "苹果",
+    "source": "registry"
+  },
+  "status": "SUCCESS",
+  "timestamp": 1767634559.7028046,
+  "processor_version": "1.0"
+}

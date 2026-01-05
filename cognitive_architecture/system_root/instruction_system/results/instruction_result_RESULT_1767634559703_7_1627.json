@@ -1,0 +1,12 @@
+{
+  "result_id": "RESULT_1767634559703_7_1627",
+  "instruction": "FIND_CHAR UID_ALPHA",
+  "execution_result": {
+    "status": "SUCCESS",
+    "query_type": "FIND_CHAR",
+    "target": "UID_ALPHA",
+    "result_file": "./system_root\\uid_system\\outbox\\result_RESULT_1767634559702_6_1472.uid",
+    "message": "\u67e5\u8be2\u5b8c\u6210\uff0c\u7ed3\u679c\u5728: ./system_root\\uid_system\\outbox\\result_RESULT_1767634559702_6_1472.uid"
+  },
+  "timestamp": 1767634559.7037723
+}

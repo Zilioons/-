@@ -1,0 +1,18 @@
+{
+  "result_id": "RESULT_1767634559716_10_7651",
+  "task_type": "FIND_UID",
+  "target": "苹果",
+  "query_result": {
+    "query_type": "FIND_UID",
+    "target": "苹果",
+    "timestamp": 1767634559.7162306,
+    "found": true,
+    "uids": [
+      "UID_ALPHA"
+    ],
+    "uid_count": 1
+  },
+  "status": "SUCCESS",
+  "timestamp": 1767634559.7162442,
+  "processor_version": "1.0"
+}
