@@ -1,3 +1,0 @@
-这是一个示例文档。
-包含一些UID引用: UID_ALPHA, UID_BETA, UID_GAMMA。
-和一些普通文本: Hello World。
