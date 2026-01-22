@@ -1,0 +1,29 @@
+# 系统配置
+system:
+  name: "Cognitive Architecture System"
+  version: "1.0.0"
+  
+# 路径配置
+paths:
+  system_root: "./"
+  triggers_dir: "./triggers"
+  documents_dir: "./documents"
+  operations_dir: "./operations"
+  logs_dir: "./logs"
+  
+# 监控配置
+monitor:
+  poll_interval_ms: 100
+  trigger_file_name: "trigger.txt"
+  cursor_file_name: "cursor.txt"
+  
+# 搜索配置
+search:
+  default_max_time_ms: 5000
+  max_local_search_distance: 10000
+  
+# 文件配置
+files:
+  default_encoding: "utf-8"
+  max_file_size_mb: 10
+  allowed_extensions: [".txt"]
