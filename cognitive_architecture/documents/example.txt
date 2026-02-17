@@ -1,7 +1,0 @@
-这是一个示例文档。
-用于测试系统的搜索和操作功能。
-搜索示例：可以搜索"示例"这个词。
-复制示例：10 20 /documents/target.txt 5 ;
-删除示例：30 40 ;
-搜索指令：SEARCH 示例 5000 /operations/search_result.txt
-局部搜索：LOCAL_SEARCH DOCUMENT:/documents/example.txt SPACE_INDEX:0 DIRECTION:RIGHT RIGHT 1 示例 /operations/local_result.txt

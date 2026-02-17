@@ -1,2 +1,0 @@
-
-SEARCH 示例 5000 ./search_results.txt;

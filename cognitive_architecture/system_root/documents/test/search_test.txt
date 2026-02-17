@@ -1,2 +1,0 @@
-测试搜索文档。
-包含 hello^world 和 test&&ing 等模式。
